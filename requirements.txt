@@ -30,3 +30,4 @@ telegraph
 tgcrypto==1.2.3
 wget
 yt_dlp>=2022.8.19
+tmate

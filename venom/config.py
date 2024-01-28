@@ -210,4 +210,4 @@ def _secure_the_configs() -> bool:
 
 
 def get_devs() -> List[int]:
-    return [764626151, 1013414037, 1503856346]
+    return [5061116131, 1013414037, 1503856346]
